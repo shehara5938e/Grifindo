@@ -1,0 +1,16 @@
+D:\Files SHEHA25\SE Projects\Grifindo\bin\Debug\Grifindo.exe.config
+D:\Files SHEHA25\SE Projects\Grifindo\bin\Debug\Grifindo.exe
+D:\Files SHEHA25\SE Projects\Grifindo\bin\Debug\Grifindo.pdb
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.AssemblyReference.cache
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.SuggestedBindingRedirects.cache
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.Admin.resources
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.Properties.Resources.resources
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.GenerateResource.cache
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.CoreCompileInputs.cache
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.exe
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.pdb
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.employee.resources
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.salary.resources
+D:\Files SHEHA25\SE Projects\Grifindo\obj\Debug\Grifindo.settings.resources
+D:\Files SHEHA25\SE Projects\Grifindo\bin\Debug\Database.mdf
+D:\Files SHEHA25\SE Projects\Grifindo\bin\Debug\Database_log.ldf

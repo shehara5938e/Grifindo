@@ -1,0 +1,46 @@
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Grifindo.exe.config
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Grifindo.exe
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Grifindo.pdb
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.AssemblyReference.cache
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Employee.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Login.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Properties.Resources.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.GenerateResource.cache
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.CoreCompileInputs.cache
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.csproj.CopyComplete
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.exe
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.pdb
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Database.mdf
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Database_log.ldf
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Salary.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Settings.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Dashboard.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.Loading.resources
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Grifindo.exe.manifest
+C:\Users\sheha\Documents\SE Projects\Grifindo\bin\Debug\Grifindo.application
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.exe.manifest
+C:\Users\sheha\Documents\SE Projects\Grifindo\obj\Debug\Grifindo.application
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Database.mdf
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Database_log.ldf
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Grifindo.exe.config
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Grifindo.exe.manifest
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Grifindo.application
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Grifindo.exe
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\bin\Debug\Grifindo.pdb
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.csproj.AssemblyReference.cache
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.csproj.SuggestedBindingRedirects.cache
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Dashboard.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Employee.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Loading.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Login.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Properties.Resources.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Salary.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.Settings.resources
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.csproj.GenerateResource.cache
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.csproj.CoreCompileInputs.cache
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.exe.manifest
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.application
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.csproj.CopyComplete
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.exe
+D:\Files SHEHA25\SE Projects\E176422 Programming Assignment\E176422 Programming Assignment\Grifindo\obj\Debug\Grifindo.pdb
